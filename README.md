@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Structure du projet
 ``` bash
 main.py
@@ -49,3 +50,6 @@ Pour les données dans input :
 * python main.py load_csv
 * python main.py export [code_region]
 * python main.py all [code_region]
+=======
+# controle_ehpad.3.2
+>>>>>>> 1915dbe0305a3bae0284817bb1534117441df825
